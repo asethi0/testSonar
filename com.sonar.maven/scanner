@@ -1,0 +1,4 @@
+mvn sonar:sonar \
+  -Dsonar.organization=asethi0-github \
+  -Dsonar.host.url=https://sonarcloud.io \
+  -Dsonar.login=af0f0328576661a8001a4a25765d55ffd86d0679
